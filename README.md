@@ -1,4 +1,4 @@
-# Physical-Activity-Harmonization
+# Physical-Activity-Harmonization-FHS-BAP
 
 These program scripts will generate derived variables related to physical activity information. 
 The format of these datasets is of wide format, with distinct variable names that allow users to tell the difference for repeated measurements of data of similar nature.
